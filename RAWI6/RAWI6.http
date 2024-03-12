@@ -1,0 +1,6 @@
+@RAWI6_HostAddress = http://localhost:5253
+
+GET {{RAWI6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
